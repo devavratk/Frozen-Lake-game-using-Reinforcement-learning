@@ -1,4 +1,4 @@
-# Reinforcement-learning-for-OpenAI-Gym-Game
+# OpenAI Gym Game using Reinforcement learning
 
 Implemented "Frozen Lake", an OpenAI game.
 The game usese Markov Decision Processes(MDP) method for learning.
